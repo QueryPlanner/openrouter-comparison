@@ -1,0 +1,5 @@
+{
+  "name": "OpenRouter Model Explorer",
+  "description": "A comprehensive tool to analyze and compare pricing, context windows, and features of LLMs available via OpenRouter.",
+  "requestFramePermissions": []
+}
